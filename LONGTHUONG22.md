@@ -3596,16 +3596,102 @@
           ]
         },
         {
-          "Id": "761",
-          "Name": "Quận 12",
+          "Id": "772",
+          "Name": "Quận 11",
           "Wards": [
             {
-              "Id": "00001",
-              "Name": "Phường Thạnh Xuân",
+              "Id": "2602",
+              "Name": "Phường 01",
+              "Level": "Phường"
+            },
+            {
+              "Id": "2603",
+              "Name": "Phường 02",
+              "Level": "Phường"
+            },
+            {
+              "Id": "2604",
+              "Name": "Phường 03",
+              "Level": "Phường"
+            },
+            {
+              "Id": "2605",
+              "Name": "Phường 04",
+              "Level": "Phường"
+            },
+            {
+              "Id": "2606",
+              "Name": "Phường 05",
+              "Level": "Phường"
+            },
+            {
+              "Id": "2607",
+              "Name": "Phường 06",
+              "Level": "Phường"
+            },
+            {
+              "Id": "2608",
+              "Name": "Phường 07",
+              "Level": "Phường"
+            },
+            {
+              "Id": "2609",
+              "Name": "Phường 08",
+              "Level": "Phường"
+            },
+            {
+              "Id": "2610",
+              "Name": "Phường 09",
+              "Level": "Phường"
+            },
+            {
+              "Id": "2611",
+              "Name": "Phường 10",
+              "Level": "Phường"
+            },
+            {
+              "Id": "2612",
+              "Name": "Phường 11",
+              "Level": "Phường"
+            },
+            {
+              "Id": "2613",
+              "Name": "Phường 12",
+              "Level": "Phường"
+            },
+            {
+              "Id": "2614",
+              "Name": "Phường 13",
+              "Level": "Phường"
+            },
+            {
+              "Id": "2615",
+              "Name": "Phường 14",
+              "Level": "Phường"
+            },
+            {
+              "Id": "2616",
+              "Name": "Phường 15",
               "Level": "Phường"
             },
             {
               "Id": "00001",
+              "Name": "Phường 16",
+              "Level": "Phường"
+            }
+          ]
+        },
+        {
+          "Id": "761",
+          "Name": "Quận 12",
+          "Wards": [
+            {
+              "Id": "2678",
+              "Name": "Phường Thạnh Xuân",
+              "Level": "Phường"
+            },
+            {
+              "Id": "2677",
               "Name": "Phường Thạnh Lộc",
               "Level": "Phường"
             },
@@ -3615,17 +3701,17 @@
               "Level": "Phường"
             },
             {
-              "Id": "00001",
+              "Id": "2674",
               "Name": "Phường Thới An",
               "Level": "Phường"
             },
             {
-              "Id": "00001",
+              "Id": "2675",
               "Name": "Phường Tân Chánh Hiệp",
               "Level": "Phường"
             },
             {
-              "Id": "00001",
+              "Id": "2673",
               "Name": "Phường An Phú Đông",
               "Level": "Phường"
             },
@@ -3650,7 +3736,7 @@
               "Level": "Phường"
             },
             {
-              "Id": "00001",
+              "Id": "2676",
               "Name": "Phường Tân Thới Nhất",
               "Level": "Phường"
             }
@@ -3718,6 +3804,126 @@
             {
               "Id": "00001",
               "Name": "Phường Trường Thọ",
+              "Level": "Phường"
+            },
+            {
+              "Id": "00001",
+              "Name": "Phường Long Bình",
+              "Level": "Phường"
+            },
+            {
+              "Id": "00001",
+              "Name": "Phường Long Thạnh Mỹ",
+              "Level": "Phường"
+            },
+            {
+              "Id": "00001",
+              "Name": "Phường Tân Phú",
+              "Level": "Phường"
+            },
+            {
+              "Id": "00001",
+              "Name": "Phường Hiệp Phú",
+              "Level": "Phường"
+            },
+            {
+              "Id": "00001",
+              "Name": "Phường Tăng Nhơn Phú A",
+              "Level": "Phường"
+            },
+            {
+              "Id": "00001",
+              "Name": "Phường Tăng Nhơn Phú B",
+              "Level": "Phường"
+            },
+            {
+              "Id": "00001",
+              "Name": "Phường Phước Long B",
+              "Level": "Phường"
+            },
+            {
+              "Id": "00001",
+              "Name": "Phường Phước Long A",
+              "Level": "Phường"
+            },
+            {
+              "Id": "00001",
+              "Name": "Phường Trường Thạnh",
+              "Level": "Phường"
+            },
+            {
+              "Id": "00001",
+              "Name": "Phường Long Phước",
+              "Level": "Phường"
+            },
+            {
+              "Id": "00001",
+              "Name": "Phường Long Trường",
+              "Level": "Phường"
+            },
+            {
+              "Id": "00001",
+              "Name": "Phường Phước Bình",
+              "Level": "Phường"
+            },
+            {
+              "Id": "00001",
+              "Name": "Phường Phú Hữu",
+              "Level": "Phường"
+            },
+            {
+              "Id": "00001",
+              "Name": "Phường Thảo Điền",
+              "Level": "Phường"
+            },
+            {
+              "Id": "00001",
+              "Name": "Phường An Phú",
+              "Level": "Phường"
+            },
+            {
+              "Id": "00001",
+              "Name": "Phường Bình An",
+              "Level": "Phường"
+            },
+            {
+              "Id": "00001",
+              "Name": "Phường Bình Trưng Đông",
+              "Level": "Phường"
+            },
+            {
+              "Id": "00001",
+              "Name": "Phường Bình Trưng Tây",
+              "Level": "Phường"
+            },
+            {
+              "Id": "00001",
+              "Name": "Phường Bình Khánh",
+              "Level": "Phường"
+            },
+            {
+              "Id": "00001",
+              "Name": "Phường An Khánh",
+              "Level": "Phường"
+            },
+            {
+              "Id": "00001",
+              "Name": "Phường Cát Lái",
+              "Level": "Phường"
+            },
+            {
+              "Id": "00001",
+              "Name": "Phường Thạnh Mỹ Lợi",
+              "Level": "Phường"
+            },
+            {
+              "Id": "00001",
+              "Name": "Phường An Lợi Đông",
+              "Level": "Phường"
+            },
+            {
+              "Id": "00001",
+              "Name": "Phường Thủ Thiêm",
               "Level": "Phường"
             }
           ]
@@ -4356,92 +4562,7 @@
             }
           ]
         },
-        {
-          "Id": "772",
-          "Name": "Quận 11",
-          "Wards": [
-            {
-              "Id": "2602",
-              "Name": "Phường 01",
-              "Level": "Phường"
-            },
-            {
-              "Id": "2603",
-              "Name": "Phường 02",
-              "Level": "Phường"
-            },
-            {
-              "Id": "2604",
-              "Name": "Phường 03",
-              "Level": "Phường"
-            },
-            {
-              "Id": "2605",
-              "Name": "Phường 04",
-              "Level": "Phường"
-            },
-            {
-              "Id": "2606",
-              "Name": "Phường 05",
-              "Level": "Phường"
-            },
-            {
-              "Id": "2607",
-              "Name": "Phường 06",
-              "Level": "Phường"
-            },
-            {
-              "Id": "2608",
-              "Name": "Phường 07",
-              "Level": "Phường"
-            },
-            {
-              "Id": "2609",
-              "Name": "Phường 08",
-              "Level": "Phường"
-            },
-            {
-              "Id": "2610",
-              "Name": "Phường 09",
-              "Level": "Phường"
-            },
-            {
-              "Id": "2611",
-              "Name": "Phường 10",
-              "Level": "Phường"
-            },
-            {
-              "Id": "2612",
-              "Name": "Phường 11",
-              "Level": "Phường"
-            },
-            {
-              "Id": "2613",
-              "Name": "Phường 12",
-              "Level": "Phường"
-            },
-            {
-              "Id": "2614",
-              "Name": "Phường 13",
-              "Level": "Phường"
-            },
-            {
-              "Id": "2615",
-              "Name": "Phường 14",
-              "Level": "Phường"
-            },
-            {
-              "Id": "2616",
-              "Name": "Phường 15",
-              "Level": "Phường"
-            },
-            {
-              "Id": "00001",
-              "Name": "Phường 16",
-              "Level": "Phường"
-            }
-          ]
-        },
+      
        
         
         
@@ -40966,7 +41087,7 @@
     },  
     {
   "level1_id": "51",
-  "Name": "Tỉnh Quảng Ngãi",
+  "Name": "Quảng Ngãi",
   "Level": "Tỉnh",
   "Districts": [
       {
