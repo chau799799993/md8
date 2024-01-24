@@ -40967,962 +40967,962 @@
     {
   "level1_id": "51",
   "name": "Tỉnh Quảng Ngãi",
-  "type": "Tỉnh",
+  "Level": "Tỉnh",
   "level2s": [
       {
-          "level2_id": "522",
+          "Id": "522",
           "name": "Thành phố Quảng Ngãi",
-          "type": "Thành phố",
-          "level3s": [
+          "Level": "Thành phố",
+          "Wards": [
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Phường Lê Hồng Phong",
-                  "type": "Phường"
+                  "Level": "Phường"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Phường Trần Phú",
-                  "type": "Phường"
+                  "Level": "Phường"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Phường Quảng Phú",
-                  "type": "Phường"
+                  "Level": "Phường"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Phường Nghĩa Chánh",
-                  "type": "Phường"
+                  "Level": "Phường"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Phường Trần Hưng Đạo",
-                  "type": "Phường"
+                  "Level": "Phường"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Phường Nguyễn Nghiêm",
-                  "type": "Phường"
+                  "Level": "Phường"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Phường Nghĩa Lộ",
-                  "type": "Phường"
+                  "Level": "Phường"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Phường Chánh Lộ",
-                  "type": "Phường"
+                  "Level": "Phường"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Nghĩa Dũng",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Nghĩa Dõng",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Phường Trương Quang Trọng",
-                  "type": "Phường"
+                  "Level": "Phường"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Tịnh Hòa",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Tịnh Kỳ",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Tịnh Thiện",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Tịnh Ấn Đông",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Tịnh Châu",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Tịnh Khê",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Tịnh Long",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Tịnh Ấn Tây",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Tịnh An",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Nghĩa Phú",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Nghĩa Hà",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Nghĩa An",
-                  "type": "Xã"
+                  "Level": "Xã"
               }
           ]
       },
       {
-          "level2_id": "524",
+          "Id": "524",
           "name": "Huyện Bình Sơn",
-          "type": "Huyện",
-          "level3s": [
+          "Level": "Huyện",
+          "Wards": [
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Thị Trấn Châu Ổ",
-                  "type": "Thị trấn"
+                  "Level": "Thị trấn"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Bình Thuận",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Bình Thạnh",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Bình Đông",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Bình Chánh",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Bình Nguyên",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Bình Khương",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Bình Trị",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Bình An",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Bình Hải",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Bình Dương",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Bình Phước",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Bình Hòa",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Bình Trung",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Bình Minh",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Bình Long",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Bình Thanh ",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Bình Chương",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Bình Hiệp",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Bình Mỹ",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Bình Tân Phú",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Bình Châu",
-                  "type": "Xã"
+                  "Level": "Xã"
               }
           ]
       },
       {
-          "level2_id": "525",
+          "Id": "525",
           "name": "Huyện Trà Bồng",
-          "type": "Huyện",
-          "level3s": [
+          "Level": "Huyện",
+          "Wards": [
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Thị trấn Trà Xuân",
-                  "type": "Thị trấn"
+                  "Level": "Thị trấn"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Trà Giang",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Trà Thủy",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Trà Hiệp",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Trà Bình",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Trà Phú",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Trà Lâm",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Trà Tân",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Trà Sơn",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Trà Bùi",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Trà Thanh",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Sơn Trà",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Trà Phong",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Hương Trà",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Trà Xinh",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Trà Tây",
-                  "type": "Xã"
+                  "Level": "Xã"
               }
           ]
       },
       {
-          "level2_id": "527",
+          "Id": "527",
           "name": "Huyện Sơn Tịnh",
-          "type": "Huyện",
-          "level3s": [
+          "Level": "Huyện",
+          "Wards": [
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Tịnh Thọ",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Tịnh Trà",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Tịnh Phong",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Tịnh Hiệp",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Tịnh Bình",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Tịnh Đông",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Tịnh Bắc",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Tịnh Sơn",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Tịnh Hà",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Tịnh Giang",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Tịnh Minh",
-                  "type": "Xã"
+                  "Level": "Xã"
               }
           ]
       },
       {
-          "level2_id": "528",
+          "Id": "528",
           "name": "Huyện Tư Nghĩa",
-          "type": "Huyện",
-          "level3s": [
+          "Level": "Huyện",
+          "Wards": [
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Thị trấn La Hà",
-                  "type": "Thị trấn"
+                  "Level": "Thị trấn"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Thị trấn Sông Vệ",
-                  "type": "Thị trấn"
+                  "Level": "Thị trấn"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Nghĩa Lâm",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Nghĩa Thắng",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Nghĩa Thuận",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Nghĩa Kỳ",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Nghĩa Sơn",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Nghĩa Hòa",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Nghĩa Điền",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Nghĩa Thương",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Nghĩa Trung",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Nghĩa Hiệp",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Nghĩa Phương",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Nghĩa Mỹ",
-                  "type": "Xã"
+                  "Level": "Xã"
               }
           ]
       },
       {
-          "level2_id": "529",
+          "Id": "529",
           "name": "Huyện Sơn Hà",
-          "type": "Huyện",
-          "level3s": [
+          "Level": "Huyện",
+          "Wards": [
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Thị trấn Di Lăng",
-                  "type": "Thị trấn"
+                  "Level": "Thị trấn"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Sơn Hạ",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Sơn Thành",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Sơn Nham",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Sơn Bao",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Sơn Linh",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Sơn Giang",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Sơn Trung",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Sơn Thượng",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Sơn Cao",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Sơn Hải",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Sơn Thủy",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Sơn Kỳ",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Sơn Ba",
-                  "type": "Xã"
+                  "Level": "Xã"
               }
           ]
       },
       {
-          "level2_id": "530",
+          "Id": "530",
           "name": "Huyện Sơn Tây",
-          "type": "Huyện",
-          "level3s": [
+          "Level": "Huyện",
+          "Wards": [
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Sơn Bua",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Sơn Mùa",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Sơn Liên",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Sơn Tân",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Sơn Màu",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Sơn Dung",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Sơn Long",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Sơn Tinh",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Sơn Lập",
-                  "type": "Xã"
+                  "Level": "Xã"
               }
           ]
       },
       {
-          "level2_id": "531",
+          "Id": "531",
           "name": "Huyện Minh Long",
-          "type": "Huyện",
-          "level3s": [
+          "Level": "Huyện",
+          "Wards": [
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Long Sơn",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Long Mai",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Thanh An",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Long Môn",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Long Hiệp",
-                  "type": "Xã"
+                  "Level": "Xã"
               }
           ]
       },
       {
-          "level2_id": "532",
+          "Id": "532",
           "name": "Huyện Nghĩa Hành",
-          "type": "Huyện",
-          "level3s": [
+          "Level": "Huyện",
+          "Wards": [
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Thị trấn Chợ Chùa",
-                  "type": "Thị trấn"
+                  "Level": "Thị trấn"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Hành Thuận",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Hành Dũng",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Hành Trung",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Hành Nhân",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Hành Đức",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Hành Minh",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Hành Phước",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Hành Thiện",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Hành Thịnh",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Hành Tín Tây",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Hành Tín  Đông",
-                  "type": "Xã"
+                  "Level": "Xã"
               }
           ]
       },
       {
-          "level2_id": "533",
+          "Id": "533",
           "name": "Huyện Mộ Đức",
-          "type": "Huyện",
-          "level3s": [
+          "Level": "Huyện",
+          "Wards": [
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Thị trấn Mộ Đức",
-                  "type": "Thị trấn"
+                  "Level": "Thị trấn"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Đức Lợi",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Đức Thắng",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Đức Nhuận",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Đức Chánh",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Đức Hiệp",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Đức Minh",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Đức Thạnh",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Đức Hòa",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Đức Tân",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Đức Phú",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Đức Phong",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Đức Lân",
-                  "type": "Xã"
+                  "Level": "Xã"
               }
           ]
       },
       {
-          "level2_id": "534",
+          "Id": "534",
           "name": "Thị xã Đức Phổ",
-          "type": "Thị xã",
-          "level3s": [
+          "Level": "Thị xã",
+          "Wards": [
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Phường Nguyễn Nghiêm",
-                  "type": "Phường"
+                  "Level": "Phường"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Phổ An",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Phổ Phong",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Phổ Thuận",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Phường Phổ Văn",
-                  "type": "Phường"
+                  "Level": "Phường"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Phường Phổ Quang",
-                  "type": "Phường"
+                  "Level": "Phường"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Phổ Nhơn",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Phường Phổ Ninh",
-                  "type": "Phường"
+                  "Level": "Phường"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Phường Phổ Minh",
-                  "type": "Phường"
+                  "Level": "Phường"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Phường Phổ Vinh",
-                  "type": "Phường"
+                  "Level": "Phường"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Phường Phổ Hòa",
-                  "type": "Phường"
+                  "Level": "Phường"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Phổ Cường",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Phổ Khánh",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Phường Phổ Thạnh",
-                  "type": "Phường"
+                  "Level": "Phường"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Phổ Châu",
-                  "type": "Xã"
+                  "Level": "Xã"
               }
           ]
       },
       {
-          "level2_id": "535",
+          "Id": "535",
           "name": "Huyện Ba Tơ",
-          "type": "Huyện",
-          "level3s": [
+          "Level": "Huyện",
+          "Wards": [
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Thị trấn Ba Tơ",
-                  "type": "Thị trấn"
+                  "Level": "Thị trấn"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Ba Điền",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Ba Vinh",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Ba Thành",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Ba Động",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Ba Dinh",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Ba Giang",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Ba Liên",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Ba Ngạc",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Ba Khâm",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Ba Cung",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Ba Tiêu",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Ba Trang",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Ba Tô",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Ba Bích",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Ba Vì",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Ba Lế",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Ba Nam",
-                  "type": "Xã"
+                  "Level": "Xã"
               },
               {
-                  "level3_id": "00001",
+                  "Id": "00001",
                   "name": "Xã Ba Xa",
-                  "type": "Xã"
+                  "Level": "Xã"
               }
           ]
       },
       {
-          "level2_id": "536",
+          "Id": "536",
           "name": "Huyện Lý Sơn",
-          "type": "Huyện",
-          "level3s": []
+          "Level": "Huyện",
+          "Wards": []
       }
   ]
     },
