@@ -17808,78 +17808,79 @@
          "Id": "866",
          "Name": "Thành phố Cao Lãnh",
          "Wards": [
+         
            {
-             "Id": "3249",
-             "Name": "Phường 11",
-             "Level": "Phường"
-           },
-           {
-             "Id": "3249",
+             "Id": "4223",
              "Name": "Phường 1",
              "Level": "Phường"
            },
            {
-             "Id": "3249",
+             "Id": "4224",
              "Name": "Phường 2",
              "Level": "Phường"
            },
            {
-             "Id": "3249",
+             "Id": "4225",
+             "Name": "Phường 3",
+             "Level": "Phường"
+           },
+                      {
+             "Id": "4226",
              "Name": "Phường 4",
              "Level": "Phường"
            },
            {
-             "Id": "3249",
-             "Name": "Phường 3",
-             "Level": "Phường"
-           },
-           {
-             "Id": "3249",
+             "Id": "4227",
              "Name": "Phường 6",
              "Level": "Phường"
            },
+             {
+             "Id": "4228",
+             "Name": "Phường 11",
+             "Level": "Phường"
+           },
            {
-             "Id": "3249",
+             "Id": "4219",
              "Name": "Xã Mỹ Ngãi",
              "Level": "Xã"
            },
            {
-             "Id": "3249",
+             "Id": "4221",
              "Name": "Xã Mỹ Tân",
              "Level": "Xã"
            },
            {
-             "Id": "3249",
+             "Id": "4222",
              "Name": "Xã Mỹ Trà",
              "Level": "Xã"
            },
            {
-             "Id": "3249",
+             "Id": "4220",
              "Name": "Phường Mỹ Phú",
              "Level": "Phường"
            },
            {
-             "Id": "3249",
+             "Id": "4230",
              "Name": "Xã Tân Thuận Tây",
              "Level": "Xã"
            },
            {
-             "Id": "3249",
+             "Id": "4218",
              "Name": "Phường Hoà Thuận",
              "Level": "Phường"
            },
            {
-             "Id": "3249",
+             "Id": "4217",
              "Name": "Xã Hòa An",
              "Level": "Xã"
            },
            {
-             "Id": "3249",
+             "Id": "4228",
              "Name": "Xã Tân Thuận Đông",
              "Level": "Xã"
            },
            {
-             "Id": "3249",
+             "Id": "4231",
              "Name": "Xã Tịnh Thới",
              "Level": "Xã"
            }
