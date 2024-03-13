@@ -56035,54 +56035,54 @@
           "Name": "Huyện Bình Tân",
           "Wards": [
             {
-              "Id": "3285",
+              "Id": "4248",
+              "Name": "Thị trấn Tân Quới",
+              "Level": "Thị trấn"
+            },
+            {
+              "Id": "4247",
               "Name": "Xã Tân Hưng",
               "Level": "Xã"
             },
             {
-              "Id": "3285",
+              "Id": "4250",
               "Name": "Xã Tân Thành",
               "Level": "Xã"
             },
             {
-              "Id": "3285",
+              "Id": "4252",
               "Name": "Xã Thành Trung",
               "Level": "Xã"
             },
             {
-              "Id": "3285",
+              "Id": "4245",
               "Name": "Xã Tân An Thạnh",
               "Level": "Xã"
             },
             {
-              "Id": "3285",
+              "Id": "4248",
               "Name": "Xã Tân Lược",
               "Level": "Xã"
             },
             {
-              "Id": "3285",
+              "Id": "4244",
               "Name": "Xã Nguyễn Văn Thảnh",
               "Level": "Xã"
             },
             {
-              "Id": "3285",
+              "Id": "4251",
               "Name": "Xã Thành Lợi",
               "Level": "Xã"
             },
             {
-              "Id": "3285",
+              "Id": "4243",
               "Name": "Xã Mỹ Thuận",
               "Level": "Xã"
             },
             {
-              "Id": "3285",
+              "Id": "4246",
               "Name": "Xã Tân Bình",
               "Level": "Xã"
-            },
-            {
-              "Id": "3285",
-              "Name": "Thị trấn Tân Quới",
-              "Level": "Thị trấn"
             }
           ]
         }
