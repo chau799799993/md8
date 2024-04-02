@@ -4863,67 +4863,67 @@
         "Name": "Thành phố Long Xuyên",
         "Wards": [
           {
-            "Id": "3196",
+            "Id": "4321",
             "Name": "Phường Mỹ Bình",
             "Level": "Phường"
           },
           {
-            "Id": "3196",
+            "Id": "4325",
             "Name": "Phường Mỹ Long",
             "Level": "Phường"
           },
           {
-            "Id": "3196",
+            "Id": "4320",
             "Name": "Phường Đông Xuyên",
             "Level": "Phường"
           },
           {
-            "Id": "3196",
+            "Id": "4330",
             "Name": "Phường Mỹ Xuyên",
             "Level": "Phường"
           },
           {
-            "Id": "3196",
+            "Id": "4318",
             "Name": "Phường Bình Đức",
             "Level": "Phường"
           },
           {
-            "Id": "3196",
+            "Id": "4319",
             "Name": "Phường Bình Khánh",
             "Level": "Phường"
           },
           {
-            "Id": "3196",
+            "Id": "4326",
             "Name": "Phường Mỹ Phước",
             "Level": "Phường"
           },
           {
-            "Id": "3196",
+            "Id": "4327",
             "Name": "Phường Mỹ Quý",
             "Level": "Phường"
           },
           {
-            "Id": "3196",
+            "Id": "4329",
             "Name": "Phường Mỹ Thới",
             "Level": "Phường"
           },
           {
-            "Id": "3196",
+            "Id": "4331",
             "Name": "Phường Mỹ Thạnh",
             "Level": "Phường"
           },
           {
-            "Id": "3196",
+            "Id": "4322",
             "Name": "Phường Mỹ Hòa",
             "Level": "Phường"
           },
           {
-            "Id": "3196",
+            "Id": "Xã Mỹ khánh",
             "Name": "Xã Mỹ Khánh",
             "Level": "Xã"
           },
           {
-            "Id": "3196",
+            "Id": "4323",
             "Name": "Xã Mỹ Hoà Hưng",
             "Level": "Xã"
           }
@@ -4934,37 +4934,37 @@
         "Name": "Thành phố Châu Đốc",
         "Wards": [
           {
-            "Id": "3194",
+            "Id": "4269",
             "Name": "Phường Châu Phú B",
             "Level": "Phường"
           },
           {
-            "Id": "3194",
+            "Id": "4268",
             "Name": "Phường Châu Phú A",
             "Level": "Phường"
           },
           {
-            "Id": "3194",
-            "Name": "Phường Vĩnh Mỹ",
-            "Level": "Phường"
-          },
-          {
-            "Id": "3194",
+            "Id": "4267",
             "Name": "Phường Núi Sam",
             "Level": "Phường"
           },
           {
-            "Id": "3194",
+            "Id": "4272",
             "Name": "Phường Vĩnh Ngươn",
             "Level": "Phường"
           },
           {
-            "Id": "3194",
+            "Id": "4271",
+            "Name": "Phường Vĩnh Mỹ",
+            "Level": "Xã"
+          },
+          {
+            "Id": "4273",
             "Name": "Xã Vĩnh Tế",
             "Level": "Xã"
           },
           {
-            "Id": "3194",
+            "Id": "4270",
             "Name": "Xã Vĩnh Châu",
             "Level": "Xã"
           }
@@ -4975,72 +4975,72 @@
         "Name": "Huyện An Phú",
         "Wards": [
           {
-            "Id": "3189",
+            "Id": "4263",
             "Name": "Thị trấn An Phú",
             "Level": "Thị trấn"
           },
           {
-            "Id": "3189",
+            "Id": "4254",
             "Name": "Xã Khánh An",
             "Level": "Xã"
           },
           {
-            "Id": "3189",
+            "Id": "4261",
             "Name": "Thị Trấn Long Bình",
             "Level": "Thị trấn"
           },
           {
-            "Id": "3189",
+            "Id": "4255",
             "Name": "Xã Khánh Bình",
             "Level": "Xã"
           },
           {
-            "Id": "3189",
+            "Id": "4260",
             "Name": "Xã Quốc Thái",
             "Level": "Xã"
           },
           {
-            "Id": "3189",
+            "Id": "4256",
             "Name": "Xã Nhơn Hội",
             "Level": "Xã"
           },
           {
-            "Id": "3189",
+            "Id": "4258",
             "Name": "Xã Phú Hữu",
             "Level": "Xã"
           },
           {
-            "Id": "3189",
+            "Id": "4257",
             "Name": "Xã Phú Hội",
             "Level": "Xã"
           },
           {
-            "Id": "3189",
+            "Id": "4259",
             "Name": "Xã Phước Hưng",
             "Level": "Xã"
           },
           {
-            "Id": "3189",
+            "Id": "4265",
             "Name": "Xã Vĩnh Lộc",
             "Level": "Xã"
           },
           {
-            "Id": "3189",
+            "Id": "4263",
             "Name": "Xã Vĩnh Hậu",
             "Level": "Xã"
           },
           {
-            "Id": "3189",
+            "Id": "4266",
             "Name": "Xã Vĩnh Trường",
             "Level": "Xã"
           },
           {
-            "Id": "3189",
+            "Id": "4264",
             "Name": "Xã Vĩnh Hội Đông",
             "Level": "Xã"
           },
           {
-            "Id": "3189",
+            "Id": "4253",
             "Name": "Xã Đa Phước",
             "Level": "Xã"
           }
@@ -5051,74 +5051,75 @@
         "Name": "Thị xã Tân Châu",
         "Wards": [
           {
-            "Id": "3195",
+            "Id": "4356",
             "Name": "Phường Long Thạnh",
             "Level": "Phường"
           },
           {
-            "Id": "3195",
+            "Id": "4353",
             "Name": "Phường Long Hưng",
             "Level": "Phường"
           },
           {
-            "Id": "3195",
+            "Id": "4352",
             "Name": "Phường Long Châu",
             "Level": "Phường"
           },
           {
-            "Id": "3195",
-            "Name": "Xã Phú Lộc",
-            "Level": "Xã"
-          },
-          {
-            "Id": "3195",
-            "Name": "Xã Vĩnh Xương",
-            "Level": "Xã"
-          },
-          {
-            "Id": "3195",
-            "Name": "Xã Vĩnh Hòa",
-            "Level": "Xã"
-          },
-          {
-            "Id": "3195",
-            "Name": "Xã Tân Thạnh",
-            "Level": "Xã"
-          },
-          {
-            "Id": "3195",
-            "Name": "Xã Tân An",
-            "Level": "Xã"
-          },
-          {
-            "Id": "3195",
-            "Name": "Xã Long An",
-            "Level": "Xã"
-          },
-          {
-            "Id": "3195",
+            "Id": "4354",
             "Name": "Phường Long Phú",
             "Level": "Phường"
           },
           {
-            "Id": "3195",
+            "Id": "4355",
+            "Name": "Phường Long Sơn",
+            "Level": "Phường"
+          },
+          {
+            "Id": "4357",
+            "Name": "Xã Phú Lộc",
+            "Level": "Xã"
+          },
+          {
+            "Id": "4362",
+            "Name": "Xã Vĩnh Xương",
+            "Level": "Xã"
+          },
+          {
+            "Id": "4361",
+            "Name": "Xã Vĩnh Hòa",
+            "Level": "Xã"
+          },
+          {
+            "Id": "4360",
+            "Name": "Xã Tân Thạnh",
+            "Level": "Xã"
+          },
+          {
+            "Id": "4359",
+            "Name": "Xã Tân An",
+            "Level": "Xã"
+          },
+          {
+            "Id": "4351",
+            "Name": "Xã Long An",
+            "Level": "Xã"
+          },
+
+          {
+            "Id": "4349",
             "Name": "Xã Châu Phong",
             "Level": "Xã"
           },
           {
-            "Id": "3195",
+            "Id": "4358",
             "Name": "Xã Phú Vĩnh",
             "Level": "Xã"
           },
           {
-            "Id": "3195",
+            "Id": "4350",
             "Name": "Xã Lê Chánh",
             "Level": "Xã"
-          },
-          {
-            "Id": "3195",
-            "Name": "Phường Long Sơn",
-            "Level": "Phường"
           }
         ]
       },
@@ -5127,67 +5128,67 @@
         "Name": "Huyện Phú Tân",
         "Wards": [
           {
-            "Id": "3192",
+            "Id": "4348",
             "Name": "Thị trấn Phú Mỹ",
             "Level": "Thị trấn"
           },
           {
-            "Id": "3192",
+            "Id": "4342",
             "Name": "Thị trấn Chợ Vàm",
             "Level": "Thị trấn"
           },
           {
-            "Id": "3192",
+            "Id": "4335",
             "Name": "Xã Long Hoà",
             "Level": "Xã"
           },
           {
-            "Id": "3192",
+            "Id": "4341",
             "Name": "Xã Phú Long",
             "Level": "Xã"
           },
           {
-            "Id": "3192",
+            "Id": "4340",
             "Name": "Xã Phú Lâm",
             "Level": "Xã"
           },
           {
-            "Id": "3192",
+            "Id": "4338",
             "Name": "Xã Phú Hiệp",
             "Level": "Xã"
           },
           {
-            "Id": "3192",
+            "Id": "4344",
             "Name": "Xã Phú Thạnh",
             "Level": "Xã"
           },
           {
-            "Id": "3192",
+            "Id": "4334",
             "Name": "Xã Hoà Lạc",
             "Level": "Xã"
           },
           {
-            "Id": "3192",
+            "Id": "4343",
             "Name": "Xã Phú Thành",
             "Level": "Xã"
           },
           {
-            "Id": "3192",
+            "Id": "4336",
             "Name": "Xã Phú An",
             "Level": "Xã"
           },
           {
-            "Id": "3192",
+            "Id": "4345",
             "Name": "Xã Phú Xuân",
             "Level": "Xã"
           },
           {
-            "Id": "3192",
+            "Id": "4333",
             "Name": "Xã Hiệp Xương",
             "Level": "Xã"
           },
           {
-            "Id": "3192",
+            "Id": "4337",
             "Name": "Xã Phú Bình",
             "Level": "Xã"
           },
@@ -5197,22 +5198,22 @@
             "Level": "Xã"
           },
           {
-            "Id": "3192",
+            "Id": "4339",
             "Name": "Xã Phú Hưng",
             "Level": "Xã"
           },
           {
-            "Id": "3192",
+            "Id": "4332",
             "Name": "Xã Bình Thạnh Đông",
             "Level": "Xã"
           },
           {
-            "Id": "3192",
+            "Id": "4346",
             "Name": "Xã Tân Hòa",
             "Level": "Xã"
           },
           {
-            "Id": "3192",
+            "Id": "4347",
             "Name": "Xã Tân Trung",
             "Level": "Xã"
           }
@@ -5223,67 +5224,67 @@
         "Name": "Huyện Châu Phú",
         "Wards": [
           {
-            "Id": "00001",
+            "Id": "4285",
             "Name": "Thị trấn Cái Dầu",
             "Level": "Thị trấn"
           },
           {
-            "Id": "00001",
+            "Id": "4280",
             "Name": "Xã Khánh Hòa",
             "Level": "Xã"
           },
           {
-            "Id": "00001",
+            "Id": "4281",
             "Name": "Xã Mỹ Đức",
             "Level": "Xã"
           },
           {
-            "Id": "00001",
+            "Id": "4282",
             "Name": "Xã Mỹ Phú",
             "Level": "Xã"
           },
           {
-            "Id": "00001",
+            "Id": "4283",
             "Name": "Xã Ô Long Vỹ",
             "Level": "Xã"
           },
           {
-            "Id": "00001",
+            "Id": "4286",
             "Name": "Xã Vĩnh Thạnh Trung",
             "Level": "Xã"
           },
           {
-            "Id": "00001",
+            "Id": "4284",
             "Name": "Xã Thạnh Mỹ Tây",
             "Level": "Xã"
           },
           {
-            "Id": "00001",
+            "Id": "4274",
             "Name": "Xã Bình Long",
             "Level": "Xã"
           },
           {
-            "Id": "00001",
+            "Id": "4275",
             "Name": "Xã Bình Mỹ",
             "Level": "Xã"
           },
           {
-            "Id": "00001",
+            "Id": "4278",
             "Name": "Xã Bình Thủy",
             "Level": "Xã"
           },
           {
-            "Id": "00001",
+            "Id": "4279",
             "Name": "Xã Đào Hữu Cảnh",
             "Level": "Xã"
           },
           {
-            "Id": "00001",
+            "Id": "4276",
             "Name": "Xã Bình Phú",
             "Level": "Xã"
           },
           {
-            "Id": "00001",
+            "Id": "4277",
             "Name": "Xã Bình Chánh",
             "Level": "Xã"
           }
@@ -5294,63 +5295,63 @@
         "Name": "Huyện Tịnh Biên",
         "Wards": [
           {
-            "Id": "3338",
+            "Id": "4392",
             "Name": "Thị trấn Nhà Bàng",
             "Level": "Thị trấn"
           },
           {
-            "Id": "3337",
+            "Id": "4391",
             "Name": "Thị trấn Chi Lăng",
             "Level": "Thị trấn"
           },
           {
-            "Id": "3340",
+            "Id": "4393",
             "Name": "Thị trấn Tịnh Biên",
             "Level": "Thị trấn"
           },
           {
-            "Id": "00001",
+            "Id": "4387",
             "Name": "Xã Núi Voi",
             "Level": "Xã"
           },
           {
-            "Id": "3339",
+            "Id": "4386",
             "Name": "Xã Nhơn Hưng",
             "Level": "Xã"
           },
           {
-            "Id": "3335",
+            "Id": "4385",
             "Name": "Xã An Phú",
             "Level": "Xã"
           },
           {
-            "Id": "3342",
+            "Id": "4390",
             "Name": "Xã Thới Sơn",
             "Level": "Xã"
           },
          
           {
-            "Id": "3343",
+            "Id": "4394",
             "Name": "Xã Văn Giáo",
             "Level": "Xã"
           },
           {
-            "Id": "3333",
+            "Id": "4382",
             "Name": "Xã An Cư",
             "Level": "Xã"
           },
           {
-            "Id": "3334",
+            "Id": "4383",
             "Name": "Xã An Nông",
             "Level": "Xã"
           },
           {
-            "Id": "3344",
+            "Id": "4395",
             "Name": "Xã Vĩnh Trung",
             "Level": "Xã"
           },
           {
-            "Id": "3341",
+            "Id": "4389",
             "Name": "Xã Tân Lợi",
             "Level": "Xã"
           },
@@ -5360,7 +5361,7 @@
             "Level": "Xã"
           },
           {
-            "Id": "00001",
+            "Id": "4388",
             "Name": "Xã Tân Lập",
             "Level": "Xã"
           }
@@ -5371,77 +5372,77 @@
         "Name": "Huyện Tri Tôn",
         "Wards": [
           {
-            "Id": "3198",
+            "Id": "4408",
             "Name": "Thị trấn Tri Tôn",
             "Level": "Thị trấn"
           },
           {
-            "Id": "3198",
+            "Id": "4407",
             "Name": "Thị trấn Ba Chúc",
             "Level": "Thị trấn"
           },
           {
-            "Id": "3198",
+            "Id": "4398",
             "Name": "Xã Lạc Quới",
             "Level": "Xã"
           },
           {
-            "Id": "3198",
+            "Id": "4399",
             "Name": "Xã Lê Trì",
             "Level": "Xã"
           },
           {
-            "Id": "3198",
+            "Id": "4409",
             "Name": "Xã Vĩnh Gia",
             "Level": "Xã"
           },
           {
-            "Id": "3198",
+            "Id": "4410",
             "Name": "Xã Vĩnh Phước",
             "Level": "Xã"
           },
           {
-            "Id": "3198",
+            "Id": "4397",
             "Name": "Xã Châu Lăng",
             "Level": "Xã"
           },
           {
-            "Id": "3198",
+            "Id": "4401",
             "Name": "Xã Lương Phi",
             "Level": "Xã"
           },
           {
-            "Id": "3198",
+            "Id": "4400",
             "Name": "Xã Lương An Trà",
             "Level": "Xã"
           },
           {
-            "Id": "3198",
+            "Id": "4404",
             "Name": "Xã Tà Đảnh",
             "Level": "Xã"
           },
           {
-            "Id": "3198",
+            "Id": "4402",
             "Name": "Xã Núi Tô",
             "Level": "Xã"
           },
           {
-            "Id": "3198",
+            "Id": "4396",
             "Name": "Xã An Tức",
             "Level": "Xã"
           },
           {
-            "Id": "3198",
+            "Id": "4406",
             "Name": "Xã Cô Tô",
             "Level": "Xã"
           },
           {
-            "Id": "3198",
+            "Id": "4405",
             "Name": "Xã Tân Tuyến",
             "Level": "Xã"
           },
           {
-            "Id": "3198",
+            "Id": "4404",
             "Name": "Xã Ô Lâm",
             "Level": "Xã"
           }
@@ -5452,67 +5453,67 @@
         "Name": "Huyện Châu Thành",
         "Wards": [
           {
-            "Id": "00001",
+            "Id": "4299",
             "Name": "Thị trấn An Châu",
             "Level": "Thị trấn"
           },
           {
-            "Id": "00001",
+            "Id": "4287",
             "Name": "Xã An Hòa",
             "Level": "Xã"
           },
           {
-            "Id": "00001",
+            "Id": "4290",
             "Name": "Xã Cần Đăng",
             "Level": "Xã"
           },
           {
-            "Id": "00001",
+            "Id": "4295",
             "Name": "Xã Vĩnh Hanh",
             "Level": "Xã"
           },
           {
-            "Id": "00001",
+            "Id": "4289",
             "Name": "Xã Bình Thạnh",
             "Level": "Xã"
           },
           {
-            "Id": "00001",
+            "Id": "4294",
             "Name": "Xã Vĩnh Bình",
             "Level": "Xã"
           },
           {
-            "Id": "00001",
+            "Id": "4288",
             "Name": "Xã Bình Hòa",
             "Level": "Xã"
           },
           {
-            "Id": "00001",
+            "Id": "4293",
             "Name": "Xã Vĩnh An",
             "Level": "Xã"
           },
           {
-            "Id": "00001",
+            "Id": "4291",
             "Name": "Xã Hòa Bình Thạnh",
             "Level": "Xã"
           },
           {
-            "Id": "00001",
+            "Id": "4296",
             "Name": "Xã Vĩnh Lợi",
             "Level": "Xã"
           },
           {
-            "Id": "00001",
+            "Id": "4298",
             "Name": "Xã Vĩnh Nhuận",
             "Level": "Xã"
           },
           {
-            "Id": "00001",
+            "Id": "4292",
             "Name": "Xã Tân Phú",
             "Level": "Xã"
           },
           {
-            "Id": "00001",
+            "Id": "4297",
             "Name": "Xã Vĩnh Thành",
             "Level": "Xã"
           }
@@ -5523,92 +5524,93 @@
         "Name": "Huyện Chợ Mới",
         "Wards": [
           {
-            "Id": "3191",
+            "Id": "4316",
             "Name": "Thị trấn Chợ Mới",
             "Level": "Thị trấn"
           },
           {
-            "Id": "3191",
+            "Id": "4317",
             "Name": "Thị trấn Mỹ Luông",
             "Level": "Thị trấn"
           },
           {
-            "Id": "3191",
+            "Id": "4305",
             "Name": "Xã Kiến An",
             "Level": "Xã"
           },
           {
-            "Id": "3191",
+            "Id": "4313",
             "Name": "Xã Mỹ Hội Đông",
             "Level": "Xã"
           },
           {
-            "Id": "3191",
+            "Id": "4307",
             "Name": "Xã Long Điền A",
             "Level": "Xã"
           },
           {
-            "Id": "3191",
-            "Name": "Xã Tấn Mỹ",
-            "Level": "Xã"
-          },
-          {
-            "Id": "3191",
+            "Id": "4308",
             "Name": "Xã Long Điền B",
             "Level": "Xã"
           },
           {
-            "Id": "3191",
+            "Id": "4315",
+            "Name": "Xã Tấn Mỹ",
+            "Level": "Xã"
+          },
+
+          {
+            "Id": "4306",
             "Name": "Xã Kiến Thành",
             "Level": "Xã"
           },
           {
-            "Id": "3191",
+            "Id": "4312",
             "Name": "Xã Mỹ Hiệp",
             "Level": "Xã"
           },
           {
-            "Id": "3191",
+            "Id": "4311",
             "Name": "Xã Mỹ An",
             "Level": "Xã"
           },
           {
-            "Id": "3191",
+            "Id": "4314",
             "Name": "Xã Nhơn Mỹ",
             "Level": "Xã"
           },
           {
-            "Id": "3191",
+            "Id": "4309",
             "Name": "Xã Long Giang",
             "Level": "Xã"
           },
           {
-            "Id": "3191",
+            "Id": "4310",
             "Name": "Xã Long Kiến",
             "Level": "Xã"
           },
           {
-            "Id": "3191",
+            "Id": "4301",
             "Name": "Xã Bình Phước Xuân",
             "Level": "Xã"
           },
           {
-            "Id": "3191",
+            "Id": "4300",
             "Name": "Xã An Thạnh Trung",
             "Level": "Xã"
           },
           {
-            "Id": "3191",
+            "Id": "4304",
             "Name": "Xã Hội An",
             "Level": "Xã"
           },
           {
-            "Id": "3191",
+            "Id": "4303",
             "Name": "Xã Hòa Bình",
             "Level": "Xã"
           },
           {
-            "Id": "3191",
+            "Id": "4302",
             "Name": "Xã Hòa An",
             "Level": "Xã"
           }
@@ -5619,87 +5621,87 @@
         "Name": "Huyện Thoại Sơn",
         "Wards": [
           {
-            "Id": "3197",
+            "Id": "4374",
             "Name": "Thị trấn Núi Sập",
             "Level": "Thị trấn"
           },
           {
-            "Id": "3197",
+            "Id": "4376",
             "Name": "Thị trấn Phú Hoà",
             "Level": "Thị trấn"
           },
           {
-            "Id": "3197",
+            "Id": "4375",
             "Name": "Thị Trấn Óc Eo",
             "Level": "Thị trấn"
           },
           {
-            "Id": "3197",
+            "Id": "4372",
             "Name": "Xã Tây Phú",
             "Level": "Xã"
           },
           {
-            "Id": "3197",
+            "Id": "4364",
             "Name": "Xã An Bình",
             "Level": "Xã"
           },
           {
-            "Id": "3197",
+            "Id": "4379",
             "Name": "Xã Vĩnh Phú",
             "Level": "Xã"
           },
           {
-            "Id": "3197",
+            "Id": "4380",
             "Name": "Xã Vĩnh Trạch",
             "Level": "Xã"
           },
           {
-            "Id": "3197",
+            "Id": "4371",
             "Name": "Xã Phú Thuận",
             "Level": "Xã"
           },
           {
-            "Id": "3197",
+            "Id": "4377",
             "Name": "Xã Vĩnh Chánh",
             "Level": "Xã"
           },
           {
-            "Id": "3197",
+            "Id": "4367",
             "Name": "Xã Định Mỹ",
             "Level": "Xã"
           },
           {
-            "Id": "3197",
+            "Id": "4368",
             "Name": "Xã Định Thành",
             "Level": "Xã"
           },
           {
-            "Id": "3197",
+            "Id": "4370",
             "Name": "Xã Mỹ Phú Đông",
             "Level": "Xã"
           },
           {
-            "Id": "3197",
+            "Id": "4369",
             "Name": "Xã Vọng Đông",
             "Level": "Xã"
           },
           {
-            "Id": "3197",
+            "Id": "4378",
             "Name": "Xã Vĩnh Khánh",
             "Level": "Xã"
           },
           {
-            "Id": "3197",
+            "Id": "4373",
             "Name": "Xã Thoại Giang",
             "Level": "Xã"
           },
           {
-            "Id": "3197",
+            "Id": "4365",
             "Name": "Xã Bình Thành",
             "Level": "Xã"
           },
           {
-            "Id": "3197",
+            "Id": "4381",
             "Name": "Xã Vọng Thê",
             "Level": "Xã"
           }
