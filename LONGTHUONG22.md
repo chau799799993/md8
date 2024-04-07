@@ -1,3 +1,4 @@
+
 [
   {
     "Id": "01",
@@ -18399,67 +18400,69 @@
         "Name": "Huyện Lấp Vò",
         "Wards": [
           {
-            "Id": "3251",
+            "Id": "4424",
             "Name": "Thị trấn Lấp Vò",
             "Level": "Thị trấn"
           },
           {
-            "Id": "3251",
+            "Id": "4428",
             "Name": "Xã Mỹ An Hưng A",
             "Level": "Xã"
           },
           {
-            "Id": "3251",
-            "Name": "Xã Tân Mỹ",
-            "Level": "Xã"
-          },
-          {
-            "Id": "3251",
+            "Id": "4427",
             "Name": "Xã Mỹ An Hưng B",
             "Level": "Xã"
           },
           {
-            "Id": "3251",
+            "Id": "4425",
+            "Name": "Xã Tân Mỹ",
+            "Level": "Xã"
+          },
+
+          {
+            "Id": "4426",
             "Name": "Xã Tân Khánh Trung",
             "Level": "Xã"
           },
           {
-            "Id": "3251",
+            "Id": "4430",
             "Name": "Xã Long Hưng A",
             "Level": "Xã"
           },
           {
-            "Id": "3251",
-            "Name": "Xã Vĩnh Thạnh",
-            "Level": "Xã"
-          },
-          {
-            "Id": "3251",
+            "Id": "4429",
             "Name": "Xã Long Hưng B",
             "Level": "Xã"
           },
           {
-            "Id": "3251",
+            "Id": "4423",
+            "Name": "Xã Vĩnh Thạnh",
+            "Level": "Xã"
+          },
+
+          {
+            "Id": "4435",
             "Name": "Xã Bình Thành",
             "Level": "Xã"
           },
           {
-            "Id": "3251",
+            "Id": "4433",
             "Name": "Xã Định An",
             "Level": "Xã"
           },
           {
-            "Id": "3251",
+            "Id": "4432",
             "Name": "Xã Định Yên",
             "Level": "Xã"
           },
           {
-            "Id": "3251",
+            "Id": "4431",
             "Name": "Xã Hội An Đông",
             "Level": "Xã"
           },
           {
-            "Id": "3251",
+            "Id": "4434",
             "Name": "Xã Bình Thạnh Trung",
             "Level": "Xã"
           }
