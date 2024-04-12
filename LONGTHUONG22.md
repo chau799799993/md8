@@ -32347,72 +32347,72 @@
         "Name": "Huyện Bảo Lâm",
         "Wards": [
           {
-            "Id": "3794",
+            "Id": "4469",
             "Name": "Thị trấn Lộc Thắng",
             "Level": "Thị trấn"
           },
           {
-            "Id": "3794",
+            "Id": "4465",
             "Name": "Xã Lộc Bảo",
             "Level": "Xã"
           },
           {
-            "Id": "3794",
+            "Id": "4463",
             "Name": "Xã Lộc Lâm",
             "Level": "Xã"
           },
           {
-            "Id": "3794",
+            "Id": "4460",
             "Name": "Xã Lộc Phú",
             "Level": "Xã"
           },
           {
-            "Id": "3794",
+            "Id": "4466",
             "Name": "Xã Lộc Bắc",
             "Level": "Xã"
           },
           {
-            "Id": "3794",
+            "Id": "4468",
             "Name": "Xã B' Lá",
             "Level": "Xã"
           },
           {
-            "Id": "3794",
+            "Id": "4461",
             "Name": "Xã Lộc Ngãi",
             "Level": "Xã"
           },
           {
-            "Id": "3794",
+            "Id": "4459",
             "Name": "Xã Lộc Quảng",
             "Level": "Xã"
           },
           {
-            "Id": "3794",
+            "Id": "4458",
             "Name": "Xã Lộc Tân",
             "Level": "Xã"
           },
           {
-            "Id": "3794",
+            "Id": "4464",
             "Name": "Xã Lộc Đức",
             "Level": "Xã"
           },
           {
-            "Id": "3794",
+            "Id": "4467",
             "Name": "Xã Lộc An",
             "Level": "Xã"
           },
           {
-            "Id": "3794",
+            "Id": "4456",
             "Name": "Xã Tân Lạc",
             "Level": "Xã"
           },
           {
-            "Id": "3794",
+            "Id": "4457",
             "Name": "Xã Lộc Thành",
             "Level": "Xã"
           },
           {
-            "Id": "3794",
+            "Id": "4462",
             "Name": "Xã Lộc Nam",
             "Level": "Xã"
           }
