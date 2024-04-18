@@ -32165,77 +32165,77 @@
         "Name": "Huyện Đức Trọng",
         "Wards": [
           {
-            "Id": "00001",
+            "Id": "4484",
             "Name": "Thị trấn Liên Nghĩa",
             "Level": "Thị trấn"
           },
           {
-            "Id": "00001",
+            "Id": "4470",
             "Name": "Xã Hiệp An",
             "Level": "Xã"
           },
           {
-            "Id": "00001",
+            "Id": "4479",
             "Name": "Xã Liên Hiệp",
             "Level": "Xã"
           },
           {
-            "Id": "00001",
+            "Id": "4476",
             "Name": "Xã Hiệp Thạnh",
             "Level": "Xã"
           },
           {
-            "Id": "00001",
+            "Id": "4472",
             "Name": "Xã Bình Thạnh",
             "Level": "Xã"
           },
           {
-            "Id": "00001",
+            "Id": "4474",
             "Name": "Xã N'Thol Hạ",
             "Level": "Xã"
           },
           {
-            "Id": "00001",
+            "Id": "4473",
             "Name": "Xã Tân Hội",
             "Level": "Xã"
           },
           {
-            "Id": "00001",
+            "Id": "4471",
             "Name": "Xã Tân Thành",
             "Level": "Xã"
           },
           {
-            "Id": "00001",
+            "Id": "4483",
             "Name": "Xã Phú Hội",
             "Level": "Xã"
           },
           {
-            "Id": "00001",
+            "Id": "4480",
             "Name": "Xã Ninh Gia",
             "Level": "Xã"
           },
           {
-            "Id": "00001",
+            "Id": "4475",
             "Name": "Xã Tà Năng",
             "Level": "Xã"
           },
           {
-            "Id": "00001",
+            "Id": "4477",
             "Name": "Xã Đa Quyn",
             "Level": "Xã"
           },
           {
-            "Id": "00001",
+            "Id": "4481",
             "Name": "Xã Tà Hine",
             "Level": "Xã"
           },
           {
-            "Id": "00001",
+            "Id": "4482",
             "Name": "Xã Đà Loan",
             "Level": "Xã"
           },
           {
-            "Id": "00001",
+            "Id": "4478",
             "Name": "Xã Ninh Loan",
             "Level": "Xã"
           }
