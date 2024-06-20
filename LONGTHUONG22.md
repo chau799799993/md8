@@ -11709,7 +11709,7 @@
         "Name": "Huyện Chơn Thành",
         "Wards": [
           {
-            "Id": "3301",
+            "Id": "4492",
             "Name": "Thị trấn Chơn Thành",
             "Level": "Thị trấn"
           },
@@ -11719,32 +11719,32 @@
             "Level": "Xã"
           },
           {
-            "Id": "3301",
+            "Id": "4487",
             "Name": "Xã Minh Lập",
             "Level": "Xã"
           },
           {
-            "Id": "3301",
+            "Id": "4491",
             "Name": "Xã Quang Minh",
             "Level": "Xã"
           },
           {
-            "Id": "3301",
+            "Id": "4486",
             "Name": "Xã Minh Hưng",
             "Level": "Xã"
           },
           {
-            "Id": "3301",
+            "Id": "4488",
             "Name": "Xã Minh Long",
             "Level": "Xã"
           },
           {
-            "Id": "3301",
+            "Id": "4489",
             "Name": "Xã Minh Thành",
             "Level": "Xã"
           },
           {
-            "Id": "3301",
+            "Id": "4490",
             "Name": "Xã Nha Bích",
             "Level": "Xã"
           },
