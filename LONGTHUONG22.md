@@ -1,4 +1,4 @@
-[
+á[
   {
     "Id": "01",
     "Name": "Thành phố Hà Nội",
@@ -11623,17 +11623,17 @@
         "Name": "Huyện Bù Đăng",
         "Wards": [
           {
-            "Id": "00001",
+            "Id": "4503",
             "Name": "Thị trấn Đức Phong",
             "Level": "Thị trấn"
           },
           {
-            "Id": "00001",
+            "Id": "4502",
             "Name": "Xã Đường 10",
             "Level": "Xã"
           },
           {
-            "Id": "00001",
+            "Id": "4514",
             "Name": "Xã Đak Nhau",
             "Level": "Xã"
           },
@@ -11648,32 +11648,32 @@
             "Level": "Xã"
           },
           {
-            "Id": "00001",
+            "Id": "4517",
             "Name": "Xã Bình Minh",
             "Level": "Xã"
           },
           {
-            "Id": "00001",
+            "Id": "4516",
             "Name": "Xã Bom Bo",
             "Level": "Xã"
           },
           {
-            "Id": "00001",
+            "Id": "4501",
             "Name": "Xã Minh Hưng",
             "Level": "Xã"
           },
           {
-            "Id": "00001",
+            "Id": "4506",
             "Name": "Xã Đoàn Kết",
             "Level": "Xã"
           },
           {
-            "Id": "00001",
+            "Id": "4505",
             "Name": "Xã Đồng Nai",
             "Level": "Xã"
           },
           {
-            "Id": "00001",
+            "Id": "4504",
             "Name": "Xã Đức Liễu",
             "Level": "Xã"
           },
@@ -11693,7 +11693,7 @@
             "Level": "Xã"
           },
           {
-            "Id": "00001",
+            "Id": "4515",
             "Name": "Xã Đăng Hà",
             "Level": "Xã"
           },
@@ -27987,37 +27987,37 @@
         "Name": "Thành phố Hà Tiên",
         "Wards": [
           {
-            "Id": "3232",
+            "Id": "4509",
             "Name": "Phường Tô Châu",
             "Level": "Phường"
           },
           {
-            "Id": "3232",
+            "Id": "4508",
             "Name": "Phường Đông Hồ",
             "Level": "Phường"
           },
           {
-            "Id": "3232",
+            "Id": "4507",
             "Name": "Phường Bình San",
             "Level": "Phường"
           },
           {
-            "Id": "3232",
+            "Id": "4510",
             "Name": "Phường Pháo Đài",
             "Level": "Phường"
           },
           {
-            "Id": "3232",
+            "Id": "4511",
             "Name": "Phường Mỹ Đức",
             "Level": "Phường"
           },
           {
-            "Id": "3232",
+            "Id": "4513",
             "Name": "Xã Tiên Hải",
             "Level": "Xã"
           },
           {
-            "Id": "3232",
+            "Id": "4512",
             "Name": "Xã Thuận Yên",
             "Level": "Xã"
           }
