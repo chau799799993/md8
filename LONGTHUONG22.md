@@ -226,57 +226,57 @@
         "Name": "Quận Long Biên",
         "Wards": [
           {
-            "Id": "00001",
+            "Id": "4529",
             "Name": "Phường Thượng Thanh",
             "Level": "Phường"
           },
           {
-            "Id": "00001",
+            "Id": "4525",
             "Name": "Phường Ngọc Thụy",
             "Level": "Phường"
           },
           {
-            "Id": "00001",
+            "Id": "4521",
             "Name": "Phường Giang Biên",
             "Level": "Phường"
           },
           {
-            "Id": "00001",
+            "Id": "4520",
             "Name": "Phường Đức Giang",
             "Level": "Phường"
           },
           {
-            "Id": "00001",
+            "Id": "4530",
             "Name": "Phường Việt Hưng",
             "Level": "Phường"
           },
           {
-            "Id": "00001",
+            "Id": "4522",
             "Name": "Phường Gia Thụy",
             "Level": "Phường"
           },
           {
-            "Id": "00001",
+            "Id": "4524",
             "Name": "Phường Ngọc Lâm",
             "Level": "Phường"
           },
           {
-            "Id": "00001",
+            "Id": "4527",
             "Name": "Phường Phúc Lợi",
             "Level": "Phường"
           },
           {
-            "Id": "00001",
+            "Id": "4518",
             "Name": "Phường Bồ Đề",
             "Level": "Phường"
           },
           {
-            "Id": "00001",
+            "Id": "4528",
             "Name": "Phường Sài Đồng",
             "Level": "Phường"
           },
           {
-            "Id": "00001",
+            "Id": "4523",
             "Name": "Phường Long Biên",
             "Level": "Phường"
           },
@@ -286,12 +286,12 @@
             "Level": "Phường"
           },
           {
-            "Id": "00001",
+            "Id": "4526",
             "Name": "Phường Phúc Đồng",
             "Level": "Phường"
           },
           {
-            "Id": "00001",
+            "Id": "4519",
             "Name": "Phường Cự Khối",
             "Level": "Phường"
           }
