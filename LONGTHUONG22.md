@@ -1126,22 +1126,22 @@
         "Name": "Huyện Thanh Trì",
         "Wards": [
           {
-            "Id": "4540",
+            "Id": "3277",
             "Name": "Thị trấn Văn Điển",
             "Level": "Thị trấn"
           },
           {
-            "Id": "4537",
+            "Id": "3277",
             "Name": "Xã Tân Triều",
             "Level": "Xã"
           },
           {
-            "Id": "4539",
+            "Id": "3277",
             "Name": "Xã Thanh Liệt",
             "Level": "Xã"
           },
           {
-            "Id": "4538",
+            "Id": "3277",
             "Name": "Xã Tả Thanh Oai",
             "Level": "Xã"
           },
@@ -1151,42 +1151,42 @@
             "Level": "Xã"
           },
           {
-            "Id": "4536",
+            "Id": "3277",
             "Name": "Xã Tam Hiệp",
             "Level": "Xã"
           },
           {
-            "Id": "4541",
+            "Id": "3277",
             "Name": "Xã Tứ Hiệp",
             "Level": "Xã"
           },
           {
-            "Id": "4544",
+            "Id": "3277",
             "Name": "Xã Yên Mỹ",
             "Level": "Xã"
           },
           {
-            "Id": "4543",
+            "Id": "3277",
             "Name": "Xã Vĩnh Quỳnh",
             "Level": "Xã"
           },
           {
-            "Id": "4535",
+            "Id": "3277",
             "Name": "Xã Ngũ Hiệp",
             "Level": "Xã"
           },
           {
-            "Id": "4532",
+            "Id": "3277",
             "Name": "Xã Duyên Hà",
             "Level": "Xã"
           },
           {
-            "Id": "4534",
+            "Id": "3277",
             "Name": "Xã Ngọc Hồi",
             "Level": "Xã"
           },
           {
-            "Id": "4542",
+            "Id": "3277",
             "Name": "Xã Vạn Phúc",
             "Level": "Xã"
           },
@@ -1196,12 +1196,12 @@
             "Level": "Xã"
           },
           {
-            "Id": "4533",
+            "Id": "3277",
             "Name": "Xã Liên Ninh",
             "Level": "Xã"
           },
           {
-            "Id": "4531",
+            "Id": "3277",
             "Name": "Xã Đông Mỹ",
             "Level": "Xã"
           }
