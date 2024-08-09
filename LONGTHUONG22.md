@@ -1,3 +1,91 @@
+const express = require('express');
+const http = require('http');
+const WebSocket = require('ws');
+const cp = require('child_process');
+const path = require('path');
+const fs = require('fs');
+
+const app = express();
+const server = http.createServer(app);
+const wss = new WebSocket.Server({ server });
+
+app.use(express.static('public'));
+
+// Đặt đường dẫn ffmpeg và tệp âm thanh
+const ffmpegPath = '/usr/bin/ffmpeg';
+const audioFilePath = path.join(__dirname, '../public/sounds/roi.mp3');
+
+// Tạo tệp PCM để kiểm tra
+const output = fs.createWriteStream('output.pcm');
+
+const ffmpeg = cp.spawn(ffmpegPath, [
+  '-re',
+  '-i', audioFilePath,
+  '-f', 's16le',
+  '-ar', '44100', // Tần số mẫu 44100 Hz
+  '-ac', '2', // 2 kênh (stereo)
+  '-b:a', '192k', // Bitrate thấp hơn để giảm tải
+  '-loglevel', 'error', // Hiển thị lỗi nếu có
+  '-'
+]);
+const clients = new Set();
+
+ffmpeg.stdout.on('data', (data) => {
+  for (const client of clients) {
+    if (client.readyState === WebSocket.OPEN) {
+      client.send(data); // Gửi dữ liệu âm thanh mã hóa qua WebSocket
+    }
+  }
+});
+
+ffmpeg.stderr.on('data', (err) => console.error(`FFmpeg error: ${err.toString()}`));
+
+let userCount = 0; // Biến để đếm số lượng người dùng kết nối
+
+wss.on('connection', (ws) => {
+  userCount++; // Tăng số lượng người dùng khi có kết nối mới
+  console.log(`Client connected. Total users: ${userCount}`);
+  clients.add(ws);
+
+  broadcastUserCount(); // Gửi số lượng người dùng hiện tại tới tất cả các khách hàng
+
+  // Lắng nghe thông điệp từ khách hàng và phát lại cho tất cả các khách hàng khác
+  ws.on('message', (message) => {
+    wss.clients.forEach((client) => {
+      if (client.readyState === WebSocket.OPEN) {
+        client.send(message); // Gửi thông điệp tới tất cả các khách hàng đang mở kết nối
+      }
+    });
+  });
+
+  // Xử lý sự kiện khi khách hàng ngắt kết nối
+  ws.on('close', () => {
+    userCount = Math.max(0, userCount - 1); // Giảm số lượng người dùng và đảm bảo không âm
+    console.log(`Client disconnected. Total users: ${userCount}`);
+    clients.delete(ws);
+    broadcastUserCount(); // Gửi cập nhật số lượng người dùng hiện tại tới tất cả các khách hàng
+  });
+});
+
+// Hàm để phát số lượng người dùng tới tất cả các khách hàng
+const broadcastUserCount = () => {
+  const userCountMessage = JSON.stringify({ type: 'userCount', count: userCount });
+  wss.clients.forEach((client) => {
+    if (client.readyState === WebSocket.OPEN) {
+      client.send(userCountMessage);
+    }
+  });
+};
+
+server.listen(8080, () => {
+  console.log('Server listening on port 8080');
+});
+
+
+
+
+
+
 [
   {
     "Id": "01",
@@ -4918,7 +5006,7 @@
             "Level": "Phường"
           },
           {
-            "Id": "Xã Mỹ khánh",
+            "Id": "4324",
             "Name": "Xã Mỹ Khánh",
             "Level": "Xã"
           },
